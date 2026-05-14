@@ -677,17 +677,15 @@
     }
 }
 
-.last{
+.last {
 
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: justify;
   margin: 50px;
-  /* padding-bottom: 13; */
+
   font-size: 14px;
- 
-  /* font-style:oblique; */
 
 }
 .link{
